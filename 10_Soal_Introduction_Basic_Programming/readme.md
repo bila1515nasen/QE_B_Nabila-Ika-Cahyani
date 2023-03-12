@@ -1,1 +1,10 @@
+Java merupakan bahasa pemrograman yang digunakan secara luas untuk pengodean aplikasi web. Bahasa ini telah menjadi pilihan populer di antara developer selama lebih dari dua dekade, dengan jutaan aplikasi Java yang digunakan saat ini. Kelebihan utama dari Java ialah dapat dijalankan di beberapa platform / sistem operasi komputer, sesuai dengan prinsip tulis sekali, jalankan di mana saja. Dengan kelebihan ini pemrogram cukup menulis sebuah program Java dan dikompilasi (diubah, dari bahasa yang dimengerti manusia menjadi bahasa mesin / bytecode) sekali lalu hasilnya dapat dijalankan di atas beberapa platform tanpa perubahan. Kelebihan ini memungkinkan sebuah program berbasis java dikerjakan di atas operating system Linux tetapi dijalankan dengan baik di atas Microsoft Windows. Platform yang didukung sampai saat ini adalah Microsoft Windows, Linux, Mac OS dan Sun Solaris.  Semua bahasa pemrograman merupakan sarana untuk berkomunikasi dengan mesin. Perangkat keras mesin hanya akan merespons komunikasi elektronik. Bahasa pemrograman tingkat tinggi seperti Java bertindak sebagai jembatan antara bahasa manusia dan bahasa perangkat keras. Untuk menggunakan Java, developer perlu memahami dua hal berikut:
 
+1. Bahasa Java dan API
+Ini adalah komunikasi front-end antara developer dan platform Java.
+
+2. Mesin Virtual Java
+Ini adalah komunikasi back-end antara platform Java dan perangkat keras yang mendasarinya. Mari melihat detail masing-masing sebagai berikut.
+
+Selain bersifat sumber terbuka (open source), Java juga tidak memerlukan lingkungan pengembangan (IDE) khusus sehingga kode program Java dapat dibuat menggunakan teks editor sederhana seperti Notepad, Notepad++ atau text editor lainnya. 
+Java Development Kit adalah distribusi Teknologi Java oleh Oracle Corporation. Ini mengimplementasikan Spesifikasi Bahasa Java dan Spesifikasi Mesin Virtual Java dan menyediakan Edisi Standar Antarmuka Pemrograman Aplikasi Java. Ini adalah turunan dari OpenJDK yang digerakkan oleh komunitas yang dikelola oleh Oracle.

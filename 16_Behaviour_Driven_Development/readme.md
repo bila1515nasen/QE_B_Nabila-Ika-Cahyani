@@ -1,1 +1,4 @@
-
+Behavior driven development
+What is bdd, merupakan proses software development yang menerapkan penulisan test case sebelum developer menuliskan proses berikutnya. 
+BDD format : user story',as a(x),i want (y),so that (z), scenario,given when then. 
+What is cucumber? Cucumber adalah sofware yang digunakan oleh programmer untuk menguji software lainnya. Cucumber menjalankan tes penerimaan otomatis yang ditulis dalam behavior-driven development (BDD).Cucumber digunakan untuk menjalankan Automation Acceptance Tests based on BDD(Behaviour Driven Development). Hasil eksekusi dari Cucumber akan diperlihatkan secara ‘lebih manusiawi’, karena hasil test yang diperlihatkan adalah ‘scenario’ yang telah dibuat. Oleh karena itu, sebelum menjalankan Automated Cucumber Test, yang harus dipersiapkan adalah ‘Test Scenario’, bisa dibuat dengan Gherkin. Gherkin digunakan agar Automated Test lebih terstruktur dan bisa digunakan untuk dokumentasi project.

@@ -14,3 +14,4 @@ Practice scenario
 -create test steps 
 -create page object
 -run the test
+m
